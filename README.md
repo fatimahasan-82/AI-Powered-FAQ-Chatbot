@@ -4,7 +4,7 @@
 
 A stunning, fully web-based AI chatbot website powered by Google's Gemini API. Built with Next.js, featuring beautiful animations, modern design, and intelligent customer support capabilities.
 
-🌐 **Live Preview:** [Prototype](https://verayaa-chatbot.vercel.app/)
+🌐 **Live Preview:** [Website](https://verayaa-chatbot.vercel.app/)
 
 ##  Features
 
